@@ -1,0 +1,24 @@
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\bin\Debug\Assignment1.dll
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\bin\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\bin\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment1\obj\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\bin\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\bin\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\bin\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\bin\Debug\Assignment1.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.dll
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment1\obj\Debug\Assignment1.pdb
