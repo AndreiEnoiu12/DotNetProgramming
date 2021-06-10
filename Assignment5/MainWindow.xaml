@@ -1,0 +1,28 @@
+﻿<Window x:Class="Assignment5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment5"
+        mc:Ignorable="d"
+        Title="Multi Media List" Height="394.538" Width="479.832">
+    <Window.Resources>
+        <DataTemplate x:Key="listBoxTemplate">
+            <StackPanel Margin="3">
+                <DockPanel>
+                    <TextBlock FontWeight="Bold" Text="Media:" DockPanel.Dock="Left" Margin="5,0,10,0" />
+                    <TextBlock Text="" />
+                    <TextBlock Text="{Binding title}" Foreground="Red" FontWeight="Bold" />
+                </DockPanel>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid>
+            <ListBox x:Name="ListMenu" Margin="192,39,10,10" ItemsSource="{Binding MediaList}" ItemTemplate="{StaticResource listBoxTemplate}" SelectionChanged="SelectItem"/>
+            <Button Content="Add New Item" HorizontalAlignment="Left" Margin="40,207,0,0" VerticalAlignment="Top" Width="105" Height="30" Click="AddItemButton"/>
+        </Grid>
+        <TextBox x:Name="mainTextBox" HorizontalAlignment="Left" Height="119" TextWrapping="Wrap" Text="Select a Media for information" VerticalAlignment="Top" Width="191" Margin="0,39,0,0"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,69 @@
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\MainWindow.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\App.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\MainWindow.baml
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.g.resources
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Window1.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment5\obj\Debug\Window1.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\bin\Debug\Assignment5.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\Assignment5.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\AddNew.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment5\obj\Debug\AddNew.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\AddNew.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\AddNew.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\bin\Debug\Assignment5.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\AddNew.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\AddNew.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment5\obj\Debug\Assignment5.pdb
