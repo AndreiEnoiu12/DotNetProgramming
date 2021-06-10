@@ -1,0 +1,21 @@
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\bin\Debug\Assignment4.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment4\obj\Debug\Assignment4.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\bin\Debug\Assignment4.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\bin\Debug\Assignment4.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\bin\Debug\Assignment4.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\obj\Debug\Assignment4.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment4\obj\Debug\Assignment4.pdb
