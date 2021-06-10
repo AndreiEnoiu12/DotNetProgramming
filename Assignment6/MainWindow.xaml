@@ -1,0 +1,48 @@
+﻿<Window x:Class="Assignment6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment6"
+        mc:Ignorable="d"
+        Title="GUI Media Window" Height="512" Width="909" FontFamily="Sitka Subheading" FontSize="20">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="12" />
+            <Setter Property="RenderTransformOrigin" Value="0.5 0.5" />
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <RotateTransform />
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard TargetProperty="RenderTransform.Angle">
+                            <DoubleAnimation   
+                        From="0" To="180" Duration="0:0:0.20"   
+                        AutoReverse="True"  
+                        FillBehavior="Stop" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,-8,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="214*" />
+            <RowDefinition Height="48*" />
+        </Grid.RowDefinitions>
+        <MediaElement MediaFailed="ErrorFile" LoadedBehavior="Manual" Margin="44,23,44,90" Name="FileMedia"/>
+
+        <Button Click="OpenButton" BorderBrush="Black" RenderTransformOrigin="0.5,0.5" Margin="44,24,741,14" Grid.Row="1" Width="75">Open</Button>
+        <Button Click="PlayButton" BorderBrush="Black" Margin="317,24,443,14" Grid.Row="1" Width="75">Play</Button>
+        <Button Click="PauseButton" BorderBrush="Black" Margin="452,24,332,14" Grid.Row="1" Width="75" FontFamily="Sitka Subheading">Pause</Button>
+        <Button Click="StopButton" BorderBrush="Black" Margin="741,24,44,14" Grid.Row="1" Width="75">Stop</Button>
+        <Label x:Name="FileName" Content="Media File Name" HorizontalAlignment="Left" Margin="141,354,0,0" VerticalAlignment="Top" Width="628" Height="39" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStyle="Italic"/>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="23" Margin="44,326,0,0" VerticalAlignment="Top" Width="821"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,60 @@
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\App.g.cs
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\MainWindow.baml
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.g.resources
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\mariu\source\repos\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\bin\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2_Assignments\Assignment6\obj\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.exe.config
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\bin\Debug\Assignment6.pdb
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\MainWindow.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\App.g.cs
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6_MarkupCompile.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6_MarkupCompile.lref
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\MainWindow.baml
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.g.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.exe
+C:\ICT WORK\ICT WORK 7\DNP2\DNP2 Assignments Andrei Enoiu\Assignment6\obj\Debug\Assignment6.pdb
